@@ -27,4 +27,4 @@
 
 > 如果你不了解license，[请看这里](https://choosealicense.com/)。<br>
 
-本文采用[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)协议进行许可。
+ 本文目前并不需要许可。
