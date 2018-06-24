@@ -8,6 +8,9 @@
 
 ## Content
 
+<details>
+<summary>View contents</summary>
+
 - [Change Log]()
 - [Introduction]()
 - [The Parts of Speech]()
@@ -22,6 +25,7 @@
 - []()
 - []()
 
+</details>
 
 ## License
 
