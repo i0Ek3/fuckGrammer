@@ -9,16 +9,11 @@ fuckGrammer，我将其翻译为去语法，主要目的是为了减轻同胞们
 <details>
 <summary>View contents</summary>
 
-- [Change Log]()
-- [Introduction]()
-- [The Parts of Speech]()
-- [Sentence Ingredient]()
-- [NPC]()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Change Log](https://github.com/i0Ek3/fuckGrammer/blob/master/ChangeLog.md?1532485753922)
+- [Introduction](https://github.com/i0Ek3/fuckGrammer/blob/master/Introduction.md?1532485775983)
+- [The Parts of Speech](https://github.com/i0Ek3/fuckGrammer/blob/master/ThePartsOfSpeech.md)
+- [Sentence Ingredient](https://github.com/i0Ek3/fuckGrammer/blob/master/SentenceIngredient.md)
+- [NPC](https://github.com/i0Ek3/fuckGrammer/blob/master/NPC.md?1532485793485)
 - []()
 - []()
 - []()
