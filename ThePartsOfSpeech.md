@@ -1,9 +1,5 @@
 # 词性 The Parts of Speech
 
-<details>
-<summary>View contents</summary>
-
-</details>
 
 ## 名词 Nouns
 
@@ -58,7 +54,7 @@
 
 
 
-## Verb
+## 动词 Verb
 
 
 > 表示动作中状态的词。
@@ -112,13 +108,13 @@
 </details>
 
 
-## Conjuctions
+## 连词 Conjuctions
 <details>
 <summary>View contents</summary>
 </details>
 
 
-## Interjections
+## 感叹词 Interjections
 <details>
 <summary>View contents</summary>
 </details>
