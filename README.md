@@ -5,10 +5,10 @@ fuckGrammer，我将其翻译为去语法，主要目的是为了减轻同胞们
 ![fuckGrammer](https://github.com/i0Ek3/fuckGrammer/blob/master/image/fuckGrammer.png)
 
 
-## Content
+## 目录
 
 <details>
-<summary>View contents</summary>
+<summary>浏览目录</summary>
 
 - [Change Log](https://github.com/i0Ek3/fuckGrammer/blob/master/ChangeLog.md?1532485753922)
 - [The Parts of Speech](https://github.com/i0Ek3/fuckGrammer/blob/master/ThePartsOfSpeech.md)
