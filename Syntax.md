@@ -62,7 +62,83 @@ wh关系副词有when、why、how、where等。
 
 ## 0x04 状语从句
 
+如果一个从句的功能相当于副词，修饰动词、形容词或整个句子，用作状语，那么该从句就是状语从句。状语从句由连词引导，多表示某动作发生的背景、地点、时间、原因等。
+
+状语从句有5种常见类型，每种状语从句都有各自的引导词，可分为时间、原因、让步、条件、比较状语从句；还有4种不常见的，分别为目的、结果、方式、地点状语从句。
+
+### 时间状语从句
+
+引导时间状语从句的连词有：when、whenever、while、as、till、until、since、after等。
+
+其中，as强调时间上的一先一后，有同一时间或随着之意；when则强调某个特定的时间；while表示的时间不是某一点，而是一段时间。
+
+### 原因状语从句
+
+引导原因状语从句的连词或复合连词有：because、since、as、for the reason that、in that等，其中because表示原因的语气最重，as和since所表示的原因则常常是人们知道的。
+
+### 让步状语从句
+
+让步状语从句的引导词有：although、though、even if、in spite of the fact、whereas、while、for all that等。
+
+其中，even if意为即使，其表述的内容不一定成为事实；even though则表示尽管，即尽管有什么样的事实存在。
+
+### 条件状语从句
+
+条件状语从句的引导词有：if、unless、suppose、in case、in the event等。
+
+条件状语从句分为真是条件句和非真实条件句。其中，真实条件句表示现实的或可能会变为现实的条件，用直接陈述语气；而非真实条件句表示非现实的或不大可能会变为现实的条件，常用虚拟语气。
+
+### 比较状语从句
+
+比较状语从句的引导词有：as... as、the same as、such... as、than等。
+
+### 目的状语从句
+
+目的状语从句的引导词有：so that、so、in order that、in case、lest等。
+
+其中，lest和in case表示的目的是一种带有否定意义的目的，意为以防。
+
+### 结果状语从句
+
+结果状语从句的引导词有：that、so that、such that、with the result that等。
+
+### 方式状语从句
+
+方式状语从句的引导词有：as、as if、as though、the way、how等。
+
+### 地点状语从句
+
+地点状语从句的引导词有：where、wherever、everywhere、anywhere等。
+
 ## 0x05 并列平行结构
+
+并列平行结构主要是讲由关联词连接的各个句子成分之间的关系，如并列、转折、因果、选择关系等，形式可以是词和短语的并列，也可以是句子的并列。而使用关联词，可以使句子在形式上更为清晰，在意思上更加紧密相连。
+
+常用关联词表达的关系有以下6种，我们分别介绍。
+
+### 添加、补充关系
+
+表达添加或补充关系的常用关联词有：and、also、both... and、besides、in addition、not only... but also、as well as等。
+
+### 转折关系
+
+表达转折关系的常用关联词有(连词和副词)：but、while、whereas、yet、however、nevertheless、on the contary、by comparison、otherwise、instead等。
+
+### 选择关系
+
+表达选择关系的常用关联词有：or、or else、otherwise、rather... than、either... or等。
+
+### 因果关系
+
+表达因果关系的常用关联词有：so、for、therefore、hence、thus、consequently、accordingly、as a consequence、as a result等。
+
+### 强调或举例关系
+
+用于强调或举例的常用关联词有：above all、for instance、indeed、for example、in other words、in fact、in particular等。
+
+### 总结关系
+
+用于总结的常用并列关联词有：altogether、all in all、in conclusion、to conclude、overall、to summarize等。
 
 ## 0x06 同位成分和插入语
 
