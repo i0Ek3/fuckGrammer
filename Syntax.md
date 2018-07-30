@@ -180,6 +180,42 @@ wh关系副词有when、why、how、where等。
 
 ## 0x08 比较结构
 
+比较结构相对来说句型复杂，形式多样，不易掌握，是英语语法中的一大难点。
+
+> 常见的比较结构有“the + 比较级...，the + 比较级...”结构、than引导的比较结构、as引导的比较结构三种。
+
+### “the + 比较级..., the + 比较级...”结构
+
+该结构前面部分是状语从句，后面部分是表示结果的主句，整个句子表示“后面部分随着前面部分而变化”。
+
+### than引导的比较结构
+
+more than表示不只是，及其。
+
+no more... than.../not... any more than...表示...与...一样不。不能简单地把该结构看成是more...than的否定形式。它可能是一种情感上的否定，也可能是一种特殊的类比形式。
+
+no other... than表示除了...之外没有别的...，不是别的...正是...。
+
+### as引导的比较结构
+
+as...as结构，意为和...一样，像...一样。
+
+not so much... as...结构，表示与其...不如...。
+
+> 特殊的比较结构有以下三种。
+
+### 句型A is to B what C is to D
+
+该句型中的what为连词，用来比较两种事物之间相同或相似的关系，意为A之于B就如同C之于D一样。
+
+### 具有比较意义的形容词
+
+一些词的原级就具有比较意义，其后常接介词to引出比较的对象，如senior to，junior to，anterior/prior to，superior to，posterior to，prefer to，inferior to等。
+
+### 表示对比的标志词
+
+表示对比的标志性词语，如like，unlike，in contrast，in comparison，compared with等，也经常被用来对两个事物、事实、观点进行对比。
+
 ## 0x09 倒装
 
 ## 0x10 虚拟语气
