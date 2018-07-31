@@ -218,6 +218,41 @@ not so much... as...结构，表示与其...不如...。
 
 ## 0x09 倒装
 
+英语陈述句的正常语序是主语在前，谓语在后。但是，在有的场合，谓语的一部分或者整个谓语都出现在主语前面，这就构成倒装。
+
+倒装分为完全倒装和部分倒装。如果整个谓语动词或整个谓语部分都在主语前，是完全倒装；若只将助动词置于主语前，谓语的其余部分置于主语后，则是部分倒装。
+
+> 助动词
+     纯粹助动词: do does did
+     be动词: is was are
+     时态助动词: have has had
+     情态助动词: will can
+
+
+### 完全倒装
+
+完全倒装一般出现在以下几种情况中：
+
+以here、there、then、now开头的句子。
+
+句首为表示方向的副词，如from、out、down、in等，且谓语动词为go、come等表示移动的词。
+
+表语置于句首，且有时主语较长，在这种情况下，为了是句子平衡、避免头重脚轻，主谓要完全倒装。
+
+### 部分倒装
+
+部分倒装一般出现以下几种情况：
+
+下列否定词及含有否定意义的词组置于句首时，句子的主谓要部分倒装。如never、no、neither、not、only、hardly、scarcely、little、seldom、not until、nowhere、on no account、by no means、in no way等。
+
+以only修饰状语开头的句子，句子的主谓要部分倒装。
+
+以下列副词或短语开头的句子，句子的主谓要部分倒装，如so、to such a degree、to such an extent、to such extremes、to such a point。
+
+句首为so、nor、neither等副词，表明前句说明的情况也适用于该句时，句子通常要部分倒装。
+
+省略形式的条件句，要部分倒装。这是省略连词if，把助动词提到主语之前。
+
 ## 0x10 虚拟语气
 
 
