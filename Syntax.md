@@ -255,4 +255,45 @@ not so much... as...结构，表示与其...不如...。
 
 ## 0x10 虚拟语气
 
+虚拟语气是谓语动词的一种特殊形式，用来表达假设、主观意愿、猜测、建议、可能或纯粹的空想等非真实情况。
+
+虚拟语气中，主句与从句中谓语动词的形式可分为以下三类：
+
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| 假设类型 | 条件从句谓语动词形式 | 主句谓语动词形式 |
+| 与现在事实相反 | 动词的过去式were | would或should + V. |
+| 与过去事实相反 | had + 过去分词 | would或should + have + 过去分词|
+| 与将来事实相反或可能相反 | 前者是 would to + v. 后者是 should + v. | would或should + v. |
+
+以下几种情况需要使用虚拟语气：
+
+### 用于某些引导词引导的条件句中
+
+常见的引导非真实条件句的词有：if、if only、as if、lest、unless等，此时虚拟语气表示推测、让步、恐怕、防止。
+
+### 用于宾语从句中
+
+某些动词所引起的宾语从句常用虚拟语气，如wish、suggest、propose、order、request、insist、imagine等。
+
+### 用于表语从句或同位语从句中
+
+某些名词后面所接的表语从句或同位语从句常用虚拟语气，如suggestion、proposal、requirement、order、demand、decision、advice等。
+
+### 用于主语从句中
+
+虚拟语气用于主语从句的常见结构是“It's + a. + that引导的主语从句”，其中的形容词常见的有：important、essential、necessary、urgent、vital、appropriate、desirable、imperative等。
+
+### 虚拟条件句的省略形式
+
+虚拟条件从句的谓语动词如果是were或者是should、could、might、had等词时，可以省略连词if，此时要把从句中的were、should、had等助动词移至主语前，形成倒装。
+
+### 介词或介词短语表示虚拟条件
+
+常用的介词或介词短语主要有without、but for、in the absence of或were it not for、but that等。
+
+
+## 此部分先告一段落，后续继续补充。
+
+
 
