@@ -18,7 +18,7 @@
  
 ## Instances
 
+**1. In the world of make-belive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.**
 
-    
     
     
