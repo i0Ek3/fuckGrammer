@@ -18,7 +18,23 @@
  
 ## Instances
 
-**1. In the world of make-belive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.**
+**1. In the world of make-beleive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.**
 
+根据NPC分析法可将句子划分成如下几个部分
+
+        In the world of make-believe
+        black women still can't escape the stereotype
+        of being eye-rolling, oversexed females
+        raised by our never-married, alcoholic mothers
+
+
+
+**2. In single-sex schools teachers can tailor lessons to boy's learning style, letting them move around the classroom and getting them to compete in teams to prevent boredom.**
     
-    
+根据NPC分析法可将句子划分成如下几个部分
+
+        In single-sex schools
+        teachers can tailor lessons to boys
+        letting them move around the classroom
+        and getting them to complete in teams
+        to prevent boredom
