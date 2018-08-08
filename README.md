@@ -15,8 +15,8 @@ fuckGrammer，我将其翻译为去语法，主要目的是为了减轻同胞们
 - [Sentence Ingredient](https://github.com/i0Ek3/fuckGrammer/blob/master/SentenceIngredient.md)
 - [Syntax](https://github.com/i0Ek3/fuckGrammer/blob/master/Syntax.md?1532571386097)
 - [NPC](https://github.com/i0Ek3/fuckGrammer/blob/master/NPC.md?1532485793485)
-- [Instance](https://github.com/i0Ek3/fuckGrammer/blob/master/Instance.md)
-- []()
+- [NPC-Instances](https://github.com/i0Ek3/fuckGrammer/blob/master/NPC-Instances.md)
+- [Syntax-Instances](https://github.com/i0Ek3/fuckGrammer/blob/master/Syntax-Instances.md)
 
 </details>
 
