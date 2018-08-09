@@ -40,7 +40,52 @@
 根据NPC分析法可将句子划分成如下几个部分
 
         In single-sex schools
-        teachers can tailor lessons to boys
+        teachers can tailor lessons to boys learning style
         letting them move around the classroom
         and getting them to complete in teams
         to prevent boredom
+
+1.介词短语P: `In single-sex schools`
+
+从介词`in`开始，到`schools`。根据意思判断这是一个地点环境。
+
+2.`teachers can tailor lessons to boys‘ learning style`
+
+从`teachers`开始，到`style`结束。停在这里是因为后面的非谓语动词N`letting`引导了一段修饰的内容。
+
+`tailor A to B`的意思为“根据B来调整A”。
+
+3.非谓语动词N: `letting them move around the classroom`
+
+从非谓语动词N`letting`开始，到`classroom`结束。在此处结束是因为后面的`and`以及`getting`引导了下一段修饰。
+
+根据此部分的中文意思，判断“允许他们在教室里动”实际上是对老师调整课程方式的描述。
+
+4.非谓语动词N: `and getting them to compete in teams`
+
+连词`and`并列两个部分，因此这部分从`getting`开始，到`teams`结束，在此处结束是因为后面的非谓语动词短语`to compete`引导了修饰成分。
+
+观察发现和前面的`letting`结构类似，因此`getting`引导的内容和前面的“允许他们在教室里走动”构成了并列关系，都是对老师调整课程方式的说明。
+
+5.非谓语动词N: `to prevent boredom`
+
+从非谓语动词N`to compete`开始，到句末结束。
+
+这个部分根据意思可以判断出是表明老师让他们在教室里四处走动，和组队竞争的目的。
+
+**翻译**: `但是在男子学校中，老师可以根据学生的学习风格调整课程，允许他们在教室里走动，并且让他们组队竞争以此来避免课堂的乏味。`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
