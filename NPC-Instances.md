@@ -1,13 +1,20 @@
 # NPC Instances
 
-**1. In the world of make-beleive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.**
+<details>
+<summary>查看例句</summary>
 
-根据NPC分析法可将句子划分成如下几个部分
+- [Instance 01](##01)
+- [Instance 02](##02)
+- [Instance 03](##03)
+- [Instance 04](##04)
 
-        In the world of make-believe
-        black women still can't escape the stereotype
-        of being eye-rolling, oversexed females
-        raised by our never-married, alcoholic mothers
+</details>
+
+
+## 01
+
+In the world of make-beleive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.
+
 
 1.介词短语P: `In the world of make-believe`
 
@@ -28,22 +35,16 @@
 4.非谓语动词N：`(females) raised by our never-married, alcoholic mothers`(女性)由酗酒成性的单身母亲养大。
 
 从非谓语动词`"raised"`开始，到句末结束。
-
+The goal of this book is to document known and unknown methods of doing various tasks using only built-in bash features. Using the snippets from this bible can help remove unneeded dependencies from scripts and in most cases make them faster. I came across these tips and discovered a few while developing neofetch, pxltrm and other smaller projects.
 根据修饰的就近原则，并结合句意，判断此部分是对靠近非谓语动词`"raised"`的`"females"`进行修饰，表明女人是“被什么样的人养大的”。
 
 **翻译**: `在虚构的世界里，黑人妇女依然难逃这样的刻板印象--她们被认为是心怀怨恨、纵欲过度的女人，由酗酒成性的单身母亲养大。`
 
 
+## 02
 
-**2. In single-sex schools teachers can tailor lessons to boy's learning style, letting them move around the classroom and getting them to compete in teams to prevent boredom.**
+In single-sex schools teachers can tailor lessons to boy's learning style, letting them move around the classroom and getting them to compete in teams to prevent boredom.
     
-根据NPC分析法可将句子划分成如下几个部分
-
-        In single-sex schools
-        teachers can tailor lessons to boys learning style
-        letting them move around the classroom
-        and getting them to complete in teams
-        to prevent boredom
 
 1.介词短语P: `In single-sex schools`
 
@@ -76,9 +77,36 @@
 **翻译**: `但是在男子学校中，老师可以根据学生的学习风格调整课程，允许他们在教室里走动，并且让他们组队竞争以此来避免课堂的乏味。`
 
 
+## 03
+
+> 从该例句开始，调整书写风格，不再添加高亮显示，为了保持突兀，决定保留前面的格式内容，为什么要按常理出牌？
+
+The end result has been that students in America have worse math and reading skills than both their foregin peers and earlier generations spending far less on education.
 
 
+1.The end result has been
 
+从句首开始，到“been”结束，因为后面的从句引导词“that”引导了下一段内容。
+
+2.从句C：that students in America have worse math and reading skills
+
+从从句引导词“that”开始，到“skills”结束。这里断句是因为后面出现了从句引导词“than”，引导下一段修饰。
+
+这里的“that”所引导的内容，是对前面的“end result”进行了说明，表示一个“什么”结果。
+
+3.从句C：than both their foreign peers and earlier generations
+
+从从句引导词“than”开始，到“generations”结束。因为后面的非谓语动词“spending”引导可下一段修饰。
+
+从句引导词“than”引导的内容，实际上是与前面的“students in America”构成了比较的关系。
+
+4.非谓语动词N: spending far less on education
+
+从非谓语动词“spending”开始，到句末结束。
+
+非谓语动词“spending”在这里引导的内容，是对其左边“foregin peers”和“earlier generations”的修饰。表明是“怎么样的”外国同龄人和早一代人。
+
+> 翻译：最终的结果表明，美国学生的数学和阅读能力与在教育上花费更少时间的外国同龄人和早一代人相比，要更差一些。
 
 
 
