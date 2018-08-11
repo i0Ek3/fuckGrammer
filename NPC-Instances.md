@@ -1,5 +1,3 @@
->>08-10:添加NPC例句3。<br>
->>08-10:添加NPC例句3。<br>
 # NPC Instances
 
 <details>
