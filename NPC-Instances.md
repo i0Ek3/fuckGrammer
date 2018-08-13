@@ -8,6 +8,31 @@
 - [`Instance03`](#03)
 - [`Instance04`](#04)
 - [`Instance05`](#05)
+- [`Instance06`](#06)
+- [`Instance07`](#07)
+- [`Instance08`](#08)
+- [`Instance09`](#09)
+- [`Instance10`](#10)
+- [`Instance11`](#11)
+- [`Instance12`](#12)
+- [`Instance13`](#13)
+- [`Instance14`](#14)
+- [`Instance15`](#15)
+- [`Instance16`](#16)
+- [`Instance17`](#17)
+- [`Instance18`](#18)
+- [`Instance19`](#19)
+- [`Instance20`](#20)
+- [`Instance21`](#21)
+- [`Instance22`](#22)
+- [`Instance23`](#23)
+- [`Instance24`](#24)
+- [`Instance25`](#25)
+- [`Instance26`](#26)
+- [`Instance27`](#27)
+- [`Instance28`](#28)
+- [`Instance29`](#29)
+- [`Instance30`](#30)
 
 </details>
 
@@ -85,23 +110,23 @@ In single-sex schools teachers can tailor lessons to boy's learning style, letti
 The end result has been that students in America have worse math and reading skills than both their foregin peers and earlier generations spending far less on education.
 
 
-1.The end result has been
+**1.The end result has been**
 
 从句首开始，到“been”结束，因为后面的从句引导词“that”引导了下一段内容。
 
-2.从句C：that students in America have worse math and reading skills
+**2.从句C：that students in America have worse math and reading skills**
 
 从从句引导词“that”开始，到“skills”结束。这里断句是因为后面出现了从句引导词“than”，引导下一段修饰。
 
 这里的“that”所引导的内容，是对前面的“end result”进行了说明，表示一个“什么”结果。
 
-3.从句C：than both their foreign peers and earlier generations
+**3.从句C：than both their foreign peers and earlier generations**
 
 从从句引导词“than”开始，到“generations”结束。因为后面的非谓语动词“spending”引导可下一段修饰。
 
 从句引导词“than”引导的内容，实际上是与前面的“students in America”构成了比较的关系。
 
-4.非谓语动词N: spending far less on education
+**4.非谓语动词N: spending far less on education**
 
 从非谓语动词“spending”开始，到句末结束。
 
@@ -114,13 +139,13 @@ The end result has been that students in America have worse math and reading ski
 
 A magazine in England found that tap water from the Thames River tasted better than several leading brands of bottled water that were 400 times more expensive.
 
-1.A magazine in England found
+**1.A magazine in England found**
 
 从句首开始，到“found”结束，在此处结束的原因是后面出现了从句C的引导词“that”，引导了一段内容。
 
 此处的“in”符合NPC中介词的规则，但由于“A magazine in England”意思简单，可以视作一个整体，不作刻意拆分。
 
-2.从句C：that tap water from the Thames River
+**2.从句C：that tap water from the Thames River**
 
 从从句C引导词“that”开始，到“River”结束，这里结束的原因是后面出现了从句C的非谓语动词“tasted”。
 
@@ -128,25 +153,60 @@ A magazine in England found that tap water from the Thames River tasted better t
 
 另外，可以知道该部分中介词“from”引导的“from the Thames River”其实是对“tap water”的修饰，也符合NPC分析法中断句的规则，此处不断只是因为“tap water from the Thames River”意思一目了然，结构简短，可以视为一个整体。
 
-3.从句C的谓语：tasted better
+**3.从句C的谓语：tasted better**
 
 从从句中的谓语“tasted”开始，到“better”结束，因为后面就是从句C引导词“than”。
 
 这里是整个从句的谓语，因此仍然归在从句类断句中。介词“from”引导的“from the Thames River”这个修饰，遇到谓语动词“tasted”就结束了。这里的断句规则，变成了修饰遇到谓语动词即结束。
 
-4.从句C：than several leading brands of bottled water
+**4.从句C：than several leading brands of bottled water**
 
 从从句C引导词“than”开始，到“water”结束，在此处结束是因为后面出现了从句C引导词“that”。
 
 根据这里的意思，我们可以发现是“很多领军品牌的瓶装水”和前面提到的“tap water from the Thames River”两者进行一个比较。
 
-5.从句C：that were 400 times more expensive
+**5.从句C：that were 400 times more expensive**
 
 从从句C引导词“that”开始，到句末结束。
 
 此处，从句C引导词”that“引导的内容，根据修饰的就近原则和意思，判断为对紧靠其左边的“bottled water”所做的修饰。表明是“什么样的”瓶装水“。
 
 > 翻译：一个英国杂志发现：来自泰晤士河的自来水比很多领军品牌的瓶装水唱起来味道更好，而这些瓶装水价格比自来水贵了400倍。
+
+
+## 05
+
+Sally enjoyed it heartily and found the applause of her boys more satisfying than any praise of the world, for now she told no no stories except to her flock of enthusiastic believers and admirers.
+
+**1.Sally enjoyed it heartily**
+
+从句首开始，到“heartily”结束。结束的原因是后面出现的连词“and”，接下来的内容由另个谓语动词引导。
+
+该分句有完整的意思和句子结构。
+
+**2.and found the applause of her boys more satisfying**
+
+从连词“and”开始，到“satisfying”结束。结束的原因是后面出现从句C引导词“than”引导了比较的修饰。
+
+此处是和前面“enjoyed”并列的谓语“found”，由“and”连接。
+
+**3.从句C：than any praise of the world**
+
+从从句C引导词“than”开始，到逗号结束。
+
+此处从句C引导词“than”所引导的“any praise of the world”是与前面“the applause of her boys”进行对比。
+
+**4.从句C：for now she told no stories except to her flock**
+
+从从句引导词“for”开始，到“flock”结束。结束的原因是后面出现了介词“of”，引导了一段修饰。
+
+这里的从句引导词“for”引导的内容，作为解释前面Sally found the applause of her boys more satisfying than any praise of the world的原因。
+
+**5.of enthusiastic believers and admirers**
+
+这里介词“of”引导的修饰，根据修饰的就近原则可知该处修饰紧靠其左边的“flock”。表明是她“怎么样的”一群人。
+
+> 翻译：夏利衷心地享受并且发现她儿子的掌声比世界上任何的赞美都要令她满足，因为现在除了她这群狂热的信徒和仰慕者，她不对其他任何人讲述故事。
 
 
 
