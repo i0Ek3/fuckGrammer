@@ -3,12 +3,12 @@
 <details>
 <summary>查看例句</summary>
 
-- [`Instance01`](#01)
-- [`Instance02`](#02)
-- [`Instance03`](#03)
-- [`Instance04`](#04)
-- [`Instance05`](#05)
-- [`Instance06`](#06)
+- [`Instance01`](#01) In the world of make-beleive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.
+- [`Instance02`](#02) In single-sex schools teachers can tailor lessons to boy's learning style, letting them move around the classroom and getting them to compete in teams to prevent boredom.
+- [`Instance03`](#03) The end result has been that students in America have worse math and reading skills than both their foregin peers and earlier generations spending far less on education.
+- [`Instance04`](#04) A magazine in England found that tap water from the Thames River tasted better than several leading brands of bottled water that were 400 times more expensive.
+- [`Instance05`](#05) Sally enjoyed it heartily and found the applause of her boys more satisfying than any praise of the world, for now she told no no stories except to her flock of enthusiastic believers and admirers.
+- [`Instance06`](#06) Neither the environmental protection authorities, who are supposed to take care of industrial noise, nor the police that should play a role in curbing traffic noise do their job properly.
 - [`Instance07`](#07)
 - [`Instance08`](#08)
 - [`Instance09`](#09)
@@ -207,6 +207,38 @@ Sally enjoyed it heartily and found the applause of her boys more satisfying tha
 这里介词“of”引导的修饰，根据修饰的就近原则可知该处修饰紧靠其左边的“flock”。表明是她“怎么样的”一群人。
 
 > 翻译：夏利衷心地享受并且发现她儿子的掌声比世界上任何的赞美都要令她满足，因为现在除了她这群狂热的信徒和仰慕者，她不对其他任何人讲述故事。
+
+
+## 06
+
+Neither the environmental protection authorities, who are supposed to take care of industrial noise, nor the police that should play a role in curbing traffic noise do their job properly.
+
+**1.Neither the environmental protection authorities**
+
+从句首开始，到逗号结束。连词“neither”引导的内容，表示“既不”；之后句子中往往会跟随出现“nor”，表示“也不”。
+
+**2.从句C：who are supposed to take care of industrial noise**
+
+从从句C引导词“who”开始，到逗号结束。这里从句C引导词“who”引导的内容，根据修饰的就近原则可以判定为是对“the environmental protection authorities”的修饰。即描述了“怎么样的”环保部门。
+
+**3.nor the police**
+
+从逗号后的连词“nor”开始，到“police”结束，结束的原因是后面出现了从句C的引导词“that”引导了一段修饰。
+
+**4.从句C：that should play a role in curbing traffic noise**
+
+从从句C引导词“that”开始，到“noise”结束。在此处结束是因为后面出现了整个长难句的谓语动词“do”。
+
+从句C引导词“that”引导的修饰，根据修饰的就近原则，我们可以知道是对其左边的“police”进行的描述，表明“是怎么样的”警察。
+
+注意，中间的介词“in”引导的内容我们不作拆分，原因是“play a role in sth./doing sth.”是一个常见的固定搭配，可以视为一个整体。
+
+**5.do their job properly**
+
+从谓语动词“do”开始，到句末结束，这里是整句话的谓语和宾语。
+
+> 翻译：无论是应当处理工业噪声的环保部门，还是应当管制交通噪声的警察，都没有做好他们的工作。
+
 
 
 
