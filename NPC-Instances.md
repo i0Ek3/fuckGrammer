@@ -9,8 +9,8 @@
 - [`Instance04`](#04) A magazine in England found that tap water from the Thames River tasted better than several leading brands of bottled water that were 400 times more expensive.
 - [`Instance05`](#05) Sally enjoyed it heartily and found the applause of her boys more satisfying than any praise of the world, for now she told no no stories except to her flock of enthusiastic believers and admirers.
 - [`Instance06`](#06) Neither the environmental protection authorities, who are supposed to take care of industrial noise, nor the police that should play a role in curbing traffic noise do their job properly.
-- [`Instance07`](#07)
-- [`Instance08`](#08)
+- [`Instance07`](#07) Perhaps the best sign of how computer and internet use pushes up demand for paper comes from the high-tech industry itself, which sees printing as one of its most promising new market.
+- [`Instance08`](#08) Some economists argue that powerful structural changes in the world have upended the old economic models that were based upon the historical link between growth and inflation.
 - [`Instance09`](#09)
 - [`Instance10`](#10)
 - [`Instance11`](#11)
@@ -238,6 +238,72 @@ Neither the environmental protection authorities, who are supposed to take care 
 从谓语动词“do”开始，到句末结束，这里是整句话的谓语和宾语。
 
 > 翻译：无论是应当处理工业噪声的环保部门，还是应当管制交通噪声的警察，都没有做好他们的工作。
+
+
+## 07
+
+Perhaps the best sign of how computer and internet use pushes up demand for paper comes from the high-tech industry itself, which sees printing as one of its most promising new market.
+
+**1.Perhaps the best sign** 
+
+从句首开始，到“sign”结束，结束的原因是因为后面出现了介词P“of”引导了修饰。
+
+**2.介词短语P：of how computer and internet use pushed up demand for paper**
+
+从介词P“of”开始，到“paper”结束，结束的原因是因为后面出现了谓语动词“comes”。
+
+介词“of”引导的修饰，根据修饰的就近原则和句意可知，其修饰对象为紧靠其左边的“sign”。具体说明了标致的内容是“什么”。
+
+**3.comes from the high-tech industry itself**
+
+从谓语动词“comes”开始，到逗号处结束。
+
+**4.从句C：which sees printing as one of its most promising new market**
+
+从从句C引导词“which”开始，到句末结束。
+
+从句C引导词“which”引导的修饰内容，根据修饰的就近原则和句意可知，其修饰对象为紧靠其左边“the high-tech industry itself”。表明了一个“怎么样的”高科技产业。
+
+> 翻译：也许，计算机及网络的使用对纸的需求之最好的标志就是来自高科技领域本身，这个高科技领域将印刷看做了其最有前景的新市场之一。
+
+
+## 08 
+
+Some economists argue that powerful structural changes in the world have upended the old economic models that were based upon the historical link between growth and inflation.
+
+**1.Some economists argue**
+
+从句首开始，到“argue”结束。结束的原因是因为后面出现了从句C引导词“that”。该处有完整的主谓结构。
+
+**2.从句C：that powerful structural changes in the world**
+
+从从句C引导词“that”开始，到“world”结束，结束的原因是因为后面出现了从句中的谓语动词。谓语动词的出现标志着前一段修饰的结束。
+
+从句C引导词“that”引导的内容，是对前面“argue”的补充，说明经济学家认为的是什么。
+
+注意，此部分的介词“in”也符合NPC分析法的断句原则，但因为其引导的“in the world”意思简单明了，我们可以将其和changes看作一个整体，故不作拆分。
+
+**3.从句C谓语：have upended the old economic models**
+
+从从句的谓语动词“have upended”开始，到“models”结束，结束的原因是因为后面出现了从句C引导词“that”，引导了一段修饰。
+
+**4.从句C：that were based upon the historical link**
+
+从从句C引导词“that”开始，到“link”结束，结束的原因是因为后面出现了介词P“between”，引导了一段修饰。
+
+从句C引导词“that”引导的修饰，根据修饰的就近原则和句意可知，其修饰的对象为紧靠其左边的“old economic models”，表明是“怎么样的”旧经济模式。
+
+**5.介词P：between growth and inflation**
+
+从介词P“between”开始，到句末结束。
+
+介词P“between”引导的内容，根据修饰的就近原则和句意可知，其修饰对象为紧靠其左边的“historical link”，表明是“怎么样的”历史关联。
+
+> 翻译：一些经济学家认为世界经济结构的强有力的变化已经结束了那个以经济增长和通货膨胀的历史关联为基础的旧的经济模式。 
+
+
+
+
 
 
 
