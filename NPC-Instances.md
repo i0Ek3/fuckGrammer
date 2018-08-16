@@ -11,8 +11,8 @@
 - [`Instance06`](#06) Neither the environmental protection authorities, who are supposed to take care of industrial noise, nor the police that should play a role in curbing traffic noise do their job properly.
 - [`Instance07`](#07) Perhaps the best sign of how computer and internet use pushes up demand for paper comes from the high-tech industry itself, which sees printing as one of its most promising new market.
 - [`Instance08`](#08) Some economists argue that powerful structural changes in the world have upended the old economic models that were based upon the historical link between growth and inflation.
-- [`Instance09`](#09)
-- [`Instance10`](#10)
+- [`Instance09`](#09) His argument is that the unusual history of these people has subjected them to unique evolutionary pressures that have resulted in this paradoxical state of affairs.
+- [`Instance10`](#10) The question of whether the decrease in plant fecundity caused by the spraying of pesticides actually causes a decline in the overall population of flowering plant species still remains unanswered.
 - [`Instance11`](#11)
 - [`Instance12`](#12)
 - [`Instance13`](#13)
@@ -302,6 +302,72 @@ Some economists argue that powerful structural changes in the world have upended
 > 翻译：一些经济学家认为世界经济结构的强有力的变化已经结束了那个以经济增长和通货膨胀的历史关联为基础的旧的经济模式。 
 
 
+## 09
+
+His argument is that the unusual history of these people has subjected them to unique evolutionary pressures that have resulted in this paradoxical state of affairs.
+
+**1.His argument is**
+
+从句首开始，到谓语动词“is”结束，结束的原因是因为后面出现了从句C引导词“that”，引导了一段内容。
+
+**2.从句C：that the unusual history of these people**
+
+从从句C引导词“that”开始，到“people”结束，结束的原因是因为后面出现了从句的谓语动词“has subjected”，标注着前一段修饰或内容结束。
+
+从句C引导词“that”引导的内容，是对前面“argument”的说明，表明了观点的内容是“什么”。
+
+**3.从句C谓语：has subjected them to unique evolutionary pressures**
+
+从从句的谓语动词“has subjected”开始，到“pressures”结束，结束的原因是因为后面出现了从句引导词“that”，引导了一段修饰。
+
+**4.从句C：that have resulted in this paradoxical state of affairs**
+
+从从句C引导词“that”开始，到句末结束。
+
+此处从句C引导词“that”引导的内容，根据修饰的就近原则，可知其修饰的对象是紧靠其左边的“pressures”，表明是一种“怎么样的”压力。
+
+> 翻译：他们的观点是：这群人不同寻常的经历使他们承受了独特的进化压力，这种压力导致了这种矛盾的状态。
+
+
+## 10
+
+The question of whether the decrease in plant fecundity caused by the spraying of pesticides actually causes a decline in the overall population of flowering plant species still remains unanswered.
+
+**1.The question**
+
+从句首开始，到“question”结束，结束的原因是因为后面出现了介词P“of”引导了一段修饰的内容。
+
+**2.介词P：of whether the decrease in plant fecundity**
+
+从介词P“of”开始，到“fecundity”结束，结束的原因是因为后面出现了非谓语动词“caused”，引导了下一段修饰。
+
+介词P“of”引导的内容，根据修饰的就近原则，可知其修饰的对象为紧靠其左边的“question”。具体说明了是什么问题。
+
+断句的这个部分，“whether”的意思不好带入，需要等整个句子看完后带入进行理解和翻译。
+
+**3.非谓语动词N：caused by the spraying of pesticides**
+
+从非谓语动词N“caused”开始，到“pesticides”结束。结束的原因是因为后面出现了从句的谓语动词“causes”。
+
+非谓语动词N“causesd”引导的内容，根据句意，判断其修饰的对象为“the decrease in plant fecundity”，表明是“怎么样的”植物结果率的下降。
+
+**4.从句C谓语：actually causes a decline in the overall population**
+
+从从句的谓语动词“caused”开始，到“population”结束。结束的原因是因为后面出现了介词P“of”引导的修饰。
+
+**5.介词P：of flowering plant species**
+
+从介词P“of”开始，到“species”结束，结束的原因是因为后面出现了整句的谓语“remains”。
+
+介词P“of”引导的修饰，根据修饰的就近原则可知，其修饰对象为紧靠其左边的“population”，表明是“什么”的种群。
+
+**6.still remains unanswered**
+
+从整句的谓语动词“remains”开始，到句末结束。
+
+我们发现，这个句子其实是The question still remains unanswered，中间的部分都在描述是一个什么“question”。
+
+> 翻译：喷洒杀虫剂引起植物结果率的下降，是否真的引起开花植物品种的整体种群数量的下降，这个问题仍未解决。
 
 
 
