@@ -13,7 +13,7 @@
 - [`Instance08`](#08) Some economists argue that powerful structural changes in the world have upended the old economic models that were based upon the historical link between growth and inflation.
 - [`Instance09`](#09) His argument is that the unusual history of these people has subjected them to unique evolutionary pressures that have resulted in this paradoxical state of affairs.
 - [`Instance10`](#10) The question of whether the decrease in plant fecundity caused by the spraying of pesticides actually causes a decline in the overall population of flowering plant species still remains unanswered.
-- [`Instance11`](#11)
+- [`Instance11`](#11) Investors' fears over the impending clash between the new government in Athens and its lenders drove European stock markets down slightly by midday Tuesday, while Greece's stock market plunged over 2 percent.
 - [`Instance12`](#12)
 - [`Instance13`](#13)
 - [`Instance14`](#14)
@@ -370,7 +370,38 @@ The question of whether the decrease in plant fecundity caused by the spraying o
 > 翻译：喷洒杀虫剂引起植物结果率的下降，是否真的引起开花植物品种的整体种群数量的下降，这个问题仍未解决。
 
 
+## 11
 
+Investors' fears over the impending clash between the new government in Athens and its lenders drove European stock markets down slightly by midday Tuesday, while Greece's stock market plunged over 2 percent.
 
+**1.Investors' fears over the impending clash**
+
+从句首开始，到“clash”结束。结束的原因是因为后面出现了介词P“between”。
+
+这里的介词P“over”符合NPC分析法的断句规则，后面的内容修饰的是紧靠其左边的“fears”，描述的是“什么样的”恐惧。但由于“the fear over sth.”，“对于某事物的恐惧”是一种常用的固定搭配，因此在这里我们不做拆分。
+
+**2.介词P：between the new government in Athens and its lenders**
+
+从介词P“between”开始，到“lenders”结束，结束的原因是因为后面出现了整句的谓语动词“drove”，标志着前面的修饰的结束。
+
+介词P“between”引导的修饰，根据修饰的就近原则可知，其修饰的对象为紧靠其左边的“clash”，具体说明是什么冲突。
+
+**3.drove European stock markets down slightly**
+
+从谓语动词“drove”开始，到“slightly”结束，结束的原因是因为后面出现了介词P“by”引导了一段修饰。
+
+**4.介词P：by midday Tuesday**
+
+从介词P“by”开始，到逗号处结束。
+
+这里介词P“by”引导的内容根据句意可知，是对一个时间的修饰，表明的是“投资者恐惧是欧洲股票下降”这一事情发生的时间节点。
+
+**5.while Greece‘s stock market plunged over 2 percent**
+
+从从句C引导词“while”开始，到句末结束。
+
+从句C引导词“while”引导的内容，根据句意，判断和前面“drove European stock markets down slightly”这一事件的发生构成了时间一致，共同发生的关系。
+
+> 翻译：截止周二中午，投资者对于即将发生的雅典新政府和其贷方之间的冲突的恐惧，使得欧洲股票市场略有下降，而与此同时希腊的股票市场骤跌2个百分点。
 
 
