@@ -407,7 +407,7 @@ Investors' fears over the impending clash between the new government in Athens a
 
 ## 12
 
-About 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesdat aims to crack down on the industrial-scale theft known as "pirAbout 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesdat aims to crack down on the industrial-scale theft known as "priate fishing".ate fishing".
+About 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesdat aims to crack down on the industrial-scale theft known as "priate fishing".
 
 **1.About 20 percent of the world‘s fishing catch**
 
