@@ -15,7 +15,7 @@
 - [`Instance10`](#10) The question of whether the decrease in plant fecundity caused by the spraying of pesticides actually causes a decline in the overall population of flowering plant species still remains unanswered.
 - [`Instance11`](#11) Investors' fears over the impending clash between the new government in Athens and its lenders drove European stock markets down slightly by midday Tuesday, while Greece's stock market plunged over 2 percent.
 - [`Instance12`](#12) About 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesdat aims to crack down on the industrial-scale theft known as "pirate fishing".
-- [`Instance13`](#13)
+- [`Instance13`](#13) The great interest in exceptional children shown in public education over the past three decades indicates the strong feeling in our society that all citizens, whatever their special conditions, deserve the opportunity to fully develop their capabilities.
 - [`Instance14`](#14)
 - [`Instance15`](#15)
 - [`Instance16`](#16)
@@ -442,3 +442,67 @@ About 20 percent of the world's fishing catch is taken illegally by poachers, ex
 非谓语动词N“known”引导的内容，根据修饰的就近原则可知，其修饰的对象为紧靠其左边的“industrial-scale theft”，即什么样的工业偷猎。
 
 > 翻译：专家预计，世界范围内的鱼类捕捞中有大约20%是由偷猎者非法进行的，但周三发射的新的卫星跟踪系统却旨在追踪被称作“偷渔”的工业偷猎。
+
+
+## 13
+
+The great interest in exceptional children shown in public education over the past three decades indicates the strong feeling in our society that all citizens, whatever their special conditions, deserve the opportunity to fully develop their capabilities.
+
+**1.The great interest in exceptional children**
+
+从句首开始，到“children”结束，结束的原因是因为后面出现了非谓语动词“shown”，引导了修饰成分。
+
+**2.非谓语动词N：shown in public education**
+
+从非谓语动词N“shown”开始，到“education”结束，结束的原因是因为后面出现了介词P“over”，其引导了一段修饰。
+
+非谓语动词N“shown”引导的内容，根据句意可知其修饰对象为“the great interest”，即“怎么样的”巨大关注。
+
+**3.介词P：over the past three decades**
+
+从介词P“over”开始，到“decades”结束。结束的原因是因为后面出现了整句的谓语动词“indicates”。谓语动词的出现标志着前面修饰的结束。
+
+介词P“over”引导的内容，根据句意可知其表达了时间的概念。
+
+**4.indicates the strong feeling in our society**
+
+从谓语动词“indicates”开始，到“society”结束，结束的原因是因为其后面出现了从句C引导词“that”，引导了一段修饰。
+
+**5.that all citizens**
+
+从从句C引导词“that”开始，到逗号结束。
+
+从这里开始，从句C引导词“that”后面的所有内容，都是对“the strong feeling”的描述，具体说明了“the strong feeling”的内容是什么。
+
+**6.whatever their special conditions**
+
+从逗号后的“whatever”开始，再到逗号结束。两个逗号之间的内容作为插入成分，是对前面的“all citizens”的补充说明。
+
+**7.从句C谓语：deserve the opportunity to fully develop their capabilities**
+
+从从句的谓语动词“deserve”开始，到句末结束。这里说明的是所有公民都能够干什么。
+
+> 翻译：在过去的30年中，公共教育中显示出的对残疾儿童的巨大关注表明了我们社会中的的一种强烈的情绪，那就是所有的公民，不管其情况有多特殊，都应该享有充分发展期能力的机会。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
