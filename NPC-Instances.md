@@ -1,7 +1,5 @@
 # NPC Instances
 
-<details>
-<summary>查看例句</summary>
 
 - [`Instance01`](#01) In the world of make-beleive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.
 - [`Instance02`](#02) In single-sex schools teachers can tailor lessons to boy's learning style, letting them move around the classroom and getting them to compete in teams to prevent boredom.
@@ -16,7 +14,7 @@
 - [`Instance11`](#11) Investors' fears over the impending clash between the new government in Athens and its lenders drove European stock markets down slightly by midday Tuesday, while Greece's stock market plunged over 2 percent.
 - [`Instance12`](#12) About 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesdat aims to crack down on the industrial-scale theft known as "pirate fishing".
 - [`Instance13`](#13) The great interest in exceptional children shown in public education over the past three decades indicates the strong feeling in our society that all citizens, whatever their special conditions, deserve the opportunity to fully develop their capabilities.
-- [`Instance14`](#14)
+- [`Instance14`](#14) Despite the intuition that something drastic needs to be done about such a costly problem, economic analysis clearly show that it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures.
 - [`Instance15`](#15)
 - [`Instance16`](#16)
 - [`Instance17`](#17)
@@ -34,10 +32,10 @@
 - [`Instance29`](#29)
 - [`Instance30`](#30)
 
-</details>
 
 
-## 01
+<details>
+<summary>查看例句01</summary>
 
 In the world of make-beleive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.
 
@@ -66,8 +64,11 @@ The goal of this book is to document known and unknown methods of doing various 
 
 **翻译**: `在虚构的世界里，黑人妇女依然难逃这样的刻板印象--她们被认为是心怀怨恨、纵欲过度的女人，由酗酒成性的单身母亲养大。`
 
+</details>
 
-## 02
+
+<details>
+<summary>查看例句02</summary>
 
 In single-sex schools teachers can tailor lessons to boy's learning style, letting them move around the classroom and getting them to compete in teams to prevent boredom.
     
@@ -102,8 +103,12 @@ In single-sex schools teachers can tailor lessons to boy's learning style, letti
 
 **翻译**: `但是在男子学校中，老师可以根据学生的学习风格调整课程，允许他们在教室里走动，并且让他们组队竞争以此来避免课堂的乏味。`
 
+</details>
 
-## 03
+
+
+<details>
+<summary>查看例句03</summary>
 
 > 从该例句开始，调整书写风格，不再添加高亮显示，为了保持突兀，决定保留前面的格式内容，为什么要按常理出牌？
 
@@ -134,8 +139,12 @@ The end result has been that students in America have worse math and reading ski
 
 > 翻译：最终的结果表明，美国学生的数学和阅读能力与在教育上花费更少时间的外国同龄人和早一代人相比，要更差一些。
 
+</details>
 
-## 04
+
+
+<details>
+<summary>查看例句04</summary>
 
 A magazine in England found that tap water from the Thames River tasted better than several leading brands of bottled water that were 400 times more expensive.
 
@@ -173,8 +182,12 @@ A magazine in England found that tap water from the Thames River tasted better t
 
 > 翻译：一个英国杂志发现：来自泰晤士河的自来水比很多领军品牌的瓶装水唱起来味道更好，而这些瓶装水价格比自来水贵了400倍。
 
+</details>
 
-## 05
+
+
+<details>
+<summary>查看例句05</summary>
 
 Sally enjoyed it heartily and found the applause of her boys more satisfying than any praise of the world, for now she told no no stories except to her flock of enthusiastic believers and admirers.
 
@@ -208,8 +221,12 @@ Sally enjoyed it heartily and found the applause of her boys more satisfying tha
 
 > 翻译：夏利衷心地享受并且发现她儿子的掌声比世界上任何的赞美都要令她满足，因为现在除了她这群狂热的信徒和仰慕者，她不对其他任何人讲述故事。
 
+</details>
 
-## 06
+
+
+<details>
+<summary>查看例句06</summary>
 
 Neither the environmental protection authorities, who are supposed to take care of industrial noise, nor the police that should play a role in curbing traffic noise do their job properly.
 
@@ -239,8 +256,11 @@ Neither the environmental protection authorities, who are supposed to take care 
 
 > 翻译：无论是应当处理工业噪声的环保部门，还是应当管制交通噪声的警察，都没有做好他们的工作。
 
+</details>
 
-## 07
+
+<details>
+<summary>查看例句07</summary>
 
 Perhaps the best sign of how computer and internet use pushes up demand for paper comes from the high-tech industry itself, which sees printing as one of its most promising new market.
 
@@ -266,8 +286,12 @@ Perhaps the best sign of how computer and internet use pushes up demand for pape
 
 > 翻译：也许，计算机及网络的使用对纸的需求之最好的标志就是来自高科技领域本身，这个高科技领域将印刷看做了其最有前景的新市场之一。
 
+</details>
 
-## 08 
+
+
+<details>
+<summary>查看例句08</summary>
 
 Some economists argue that powerful structural changes in the world have upended the old economic models that were based upon the historical link between growth and inflation.
 
@@ -301,8 +325,12 @@ Some economists argue that powerful structural changes in the world have upended
 
 > 翻译：一些经济学家认为世界经济结构的强有力的变化已经结束了那个以经济增长和通货膨胀的历史关联为基础的旧的经济模式。 
 
+</details>
 
-## 09
+
+
+<details>
+<summary>查看例句09</summary>
 
 His argument is that the unusual history of these people has subjected them to unique evolutionary pressures that have resulted in this paradoxical state of affairs.
 
@@ -328,8 +356,12 @@ His argument is that the unusual history of these people has subjected them to u
 
 > 翻译：他们的观点是：这群人不同寻常的经历使他们承受了独特的进化压力，这种压力导致了这种矛盾的状态。
 
+</details>
 
-## 10
+
+
+<details>
+<summary>查看例句10</summary>
 
 The question of whether the decrease in plant fecundity caused by the spraying of pesticides actually causes a decline in the overall population of flowering plant species still remains unanswered.
 
@@ -369,8 +401,12 @@ The question of whether the decrease in plant fecundity caused by the spraying o
 
 > 翻译：喷洒杀虫剂引起植物结果率的下降，是否真的引起开花植物品种的整体种群数量的下降，这个问题仍未解决。
 
+</details>
 
-## 11
+
+
+<details>
+<summary>查看例句11</summary>
 
 Investors' fears over the impending clash between the new government in Athens and its lenders drove European stock markets down slightly by midday Tuesday, while Greece's stock market plunged over 2 percent.
 
@@ -404,8 +440,12 @@ Investors' fears over the impending clash between the new government in Athens a
 
 > 翻译：截止周二中午，投资者对于即将发生的雅典新政府和其贷方之间的冲突的恐惧，使得欧洲股票市场略有下降，而与此同时希腊的股票市场骤跌2个百分点。
 
+</details>
 
-## 12
+
+
+<details>
+<summary>查看例句12</summary>
 
 About 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesdat aims to crack down on the industrial-scale theft known as "priate fishing".
 
@@ -443,8 +483,12 @@ About 20 percent of the world's fishing catch is taken illegally by poachers, ex
 
 > 翻译：专家预计，世界范围内的鱼类捕捞中有大约20%是由偷猎者非法进行的，但周三发射的新的卫星跟踪系统却旨在追踪被称作“偷渔”的工业偷猎。
 
+</details>
 
-## 13
+
+
+<details>
+<summary>查看例句13</summary>
 
 The great interest in exceptional children shown in public education over the past three decades indicates the strong feeling in our society that all citizens, whatever their special conditions, deserve the opportunity to fully develop their capabilities.
 
@@ -484,14 +528,58 @@ The great interest in exceptional children shown in public education over the pa
 
 > 翻译：在过去的30年中，公共教育中显示出的对残疾儿童的巨大关注表明了我们社会中的的一种强烈的情绪，那就是所有的公民，不管其情况有多特殊，都应该享有充分发展期能力的机会。
 
+</details>
 
 
 
+<details>
+<summary>查看例句14</summary>
+
+Despite the intuition that something drastic needs to be done about such a costly problem, economic analysis clearly show that it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures.
+
+**1.介词P：Despite the intuition**
+
+从句首开始，到“intuition”结束，结束的原因是因为后面的从句C引导词“that”引导了一段修饰。
+
+**2.从句C：that something drastic needs to be done**
+
+从从句C引导词“that”开始，到“done”结束，结束的原因是因为后面的介词P“about”引导了一段修饰。
+
+这里“that”引导的部分，修饰了紧靠其左边的“intuition”，说明是什么样的直觉。
+
+**3.介词P：about such a costly problen**
+
+从介词P“about”开始，到逗号结束。
+
+这个部分根据句意可知，其修饰的是“something drastic”，说明是什么样的重大举措。
+
+**4.economic analysis clearly show**
+
+从逗号后开始，到“show”结束。因为后面出现了从句C引导词“that”，引导了一段内容。
+
+**5.从句C：that it will be far more expensive to cut carbon dioxide emissions radically**
+
+从从句C引导词“that”开始，到“radically”结束，因为后面的从句引导词“than”引导了一段内容。
+
+这部分内容是对economic analysis的说明，说明它显示了什么原理。
+
+**6.从句C：that to pay the costs of adaptations to the increased temperatures**
+
+从从句引导词“that”开始，到句号结束。
+
+这里的内容，由表示比较的“than”引导，根据意思和结构，可以清楚的发现，是与前面“彻底减少二氧化碳排放的花费”进行对比。
+
+> 翻译：尽管直觉是针对这样一个高代价的难题必须要做一些重大的举措，经济的分析清楚地显示彻底减少二氧化碳排放的花费要远大于为了适应增长的气温而付出的代价。
+
+</details>
 
 
 
+<details>
+<summary>查看例句15</summary>
 
 
+</details>
 
 
 
