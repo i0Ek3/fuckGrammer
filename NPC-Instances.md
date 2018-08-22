@@ -1,5 +1,7 @@
 # NPC Instances
 
+<details>
+<summary>查看例句</summary>
 
 - [`Instance01`](#01) In the world of make-beleive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.
 - [`Instance02`](#02) In single-sex schools teachers can tailor lessons to boy's learning style, letting them move around the classroom and getting them to compete in teams to prevent boredom.
@@ -15,8 +17,8 @@
 - [`Instance12`](#12) About 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesdat aims to crack down on the industrial-scale theft known as "pirate fishing".
 - [`Instance13`](#13) The great interest in exceptional children shown in public education over the past three decades indicates the strong feeling in our society that all citizens, whatever their special conditions, deserve the opportunity to fully develop their capabilities.
 - [`Instance14`](#14) Despite the intuition that something drastic needs to be done about such a costly problem, economic analysis clearly show that it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures.
-- [`Instance15`](#15)
-- [`Instance16`](#16)
+- [`Instance15`](#15) After six months of arguing and final 16 hours of hot parliamentary debates, Australia's Northern Territory became the first legal authority in the world to allow doctors to tale the lives of incurably ill patients who wish to die.
+- [`Instance16`](#16) Interest in historical methods has arisen less through external challenge to the validity of history as an intellectual discipline and more from internal quarrels among historians themselves.
 - [`Instance17`](#17)
 - [`Instance18`](#18)
 - [`Instance19`](#19)
@@ -32,10 +34,9 @@
 - [`Instance29`](#29)
 - [`Instance30`](#30)
 
+</details>
 
-
-<details>
-<summary>查看例句01</summary>
+## 01
 
 In the world of make-beleive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.
 
@@ -64,11 +65,8 @@ The goal of this book is to document known and unknown methods of doing various 
 
 **翻译**: `在虚构的世界里，黑人妇女依然难逃这样的刻板印象--她们被认为是心怀怨恨、纵欲过度的女人，由酗酒成性的单身母亲养大。`
 
-</details>
 
-
-<details>
-<summary>查看例句02</summary>
+## 02
 
 In single-sex schools teachers can tailor lessons to boy's learning style, letting them move around the classroom and getting them to compete in teams to prevent boredom.
     
@@ -103,12 +101,8 @@ In single-sex schools teachers can tailor lessons to boy's learning style, letti
 
 **翻译**: `但是在男子学校中，老师可以根据学生的学习风格调整课程，允许他们在教室里走动，并且让他们组队竞争以此来避免课堂的乏味。`
 
-</details>
 
-
-
-<details>
-<summary>查看例句03</summary>
+## 03
 
 > 从该例句开始，调整书写风格，不再添加高亮显示，为了保持突兀，决定保留前面的格式内容，为什么要按常理出牌？
 
@@ -139,12 +133,8 @@ The end result has been that students in America have worse math and reading ski
 
 > 翻译：最终的结果表明，美国学生的数学和阅读能力与在教育上花费更少时间的外国同龄人和早一代人相比，要更差一些。
 
-</details>
 
-
-
-<details>
-<summary>查看例句04</summary>
+## 04
 
 A magazine in England found that tap water from the Thames River tasted better than several leading brands of bottled water that were 400 times more expensive.
 
@@ -182,12 +172,8 @@ A magazine in England found that tap water from the Thames River tasted better t
 
 > 翻译：一个英国杂志发现：来自泰晤士河的自来水比很多领军品牌的瓶装水唱起来味道更好，而这些瓶装水价格比自来水贵了400倍。
 
-</details>
 
-
-
-<details>
-<summary>查看例句05</summary>
+## 05
 
 Sally enjoyed it heartily and found the applause of her boys more satisfying than any praise of the world, for now she told no no stories except to her flock of enthusiastic believers and admirers.
 
@@ -221,12 +207,8 @@ Sally enjoyed it heartily and found the applause of her boys more satisfying tha
 
 > 翻译：夏利衷心地享受并且发现她儿子的掌声比世界上任何的赞美都要令她满足，因为现在除了她这群狂热的信徒和仰慕者，她不对其他任何人讲述故事。
 
-</details>
 
-
-
-<details>
-<summary>查看例句06</summary>
+## 06
 
 Neither the environmental protection authorities, who are supposed to take care of industrial noise, nor the police that should play a role in curbing traffic noise do their job properly.
 
@@ -256,11 +238,8 @@ Neither the environmental protection authorities, who are supposed to take care 
 
 > 翻译：无论是应当处理工业噪声的环保部门，还是应当管制交通噪声的警察，都没有做好他们的工作。
 
-</details>
 
-
-<details>
-<summary>查看例句07</summary>
+## 07
 
 Perhaps the best sign of how computer and internet use pushes up demand for paper comes from the high-tech industry itself, which sees printing as one of its most promising new market.
 
@@ -286,12 +265,9 @@ Perhaps the best sign of how computer and internet use pushes up demand for pape
 
 > 翻译：也许，计算机及网络的使用对纸的需求之最好的标志就是来自高科技领域本身，这个高科技领域将印刷看做了其最有前景的新市场之一。
 
-</details>
 
 
-
-<details>
-<summary>查看例句08</summary>
+## 08
 
 Some economists argue that powerful structural changes in the world have upended the old economic models that were based upon the historical link between growth and inflation.
 
@@ -325,12 +301,9 @@ Some economists argue that powerful structural changes in the world have upended
 
 > 翻译：一些经济学家认为世界经济结构的强有力的变化已经结束了那个以经济增长和通货膨胀的历史关联为基础的旧的经济模式。 
 
-</details>
 
 
-
-<details>
-<summary>查看例句09</summary>
+## 09
 
 His argument is that the unusual history of these people has subjected them to unique evolutionary pressures that have resulted in this paradoxical state of affairs.
 
@@ -356,12 +329,9 @@ His argument is that the unusual history of these people has subjected them to u
 
 > 翻译：他们的观点是：这群人不同寻常的经历使他们承受了独特的进化压力，这种压力导致了这种矛盾的状态。
 
-</details>
 
 
-
-<details>
-<summary>查看例句10</summary>
+## 10
 
 The question of whether the decrease in plant fecundity caused by the spraying of pesticides actually causes a decline in the overall population of flowering plant species still remains unanswered.
 
@@ -401,12 +371,9 @@ The question of whether the decrease in plant fecundity caused by the spraying o
 
 > 翻译：喷洒杀虫剂引起植物结果率的下降，是否真的引起开花植物品种的整体种群数量的下降，这个问题仍未解决。
 
-</details>
 
 
-
-<details>
-<summary>查看例句11</summary>
+## 11
 
 Investors' fears over the impending clash between the new government in Athens and its lenders drove European stock markets down slightly by midday Tuesday, while Greece's stock market plunged over 2 percent.
 
@@ -440,12 +407,9 @@ Investors' fears over the impending clash between the new government in Athens a
 
 > 翻译：截止周二中午，投资者对于即将发生的雅典新政府和其贷方之间的冲突的恐惧，使得欧洲股票市场略有下降，而与此同时希腊的股票市场骤跌2个百分点。
 
-</details>
 
 
-
-<details>
-<summary>查看例句12</summary>
+## 12
 
 About 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesdat aims to crack down on the industrial-scale theft known as "priate fishing".
 
@@ -483,12 +447,9 @@ About 20 percent of the world's fishing catch is taken illegally by poachers, ex
 
 > 翻译：专家预计，世界范围内的鱼类捕捞中有大约20%是由偷猎者非法进行的，但周三发射的新的卫星跟踪系统却旨在追踪被称作“偷渔”的工业偷猎。
 
-</details>
 
 
-
-<details>
-<summary>查看例句13</summary>
+## 13
 
 The great interest in exceptional children shown in public education over the past three decades indicates the strong feeling in our society that all citizens, whatever their special conditions, deserve the opportunity to fully develop their capabilities.
 
@@ -528,12 +489,9 @@ The great interest in exceptional children shown in public education over the pa
 
 > 翻译：在过去的30年中，公共教育中显示出的对残疾儿童的巨大关注表明了我们社会中的的一种强烈的情绪，那就是所有的公民，不管其情况有多特殊，都应该享有充分发展期能力的机会。
 
-</details>
 
 
-
-<details>
-<summary>查看例句14</summary>
+## 14
 
 Despite the intuition that something drastic needs to be done about such a costly problem, economic analysis clearly show that it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures.
 
@@ -571,18 +529,95 @@ Despite the intuition that something drastic needs to be done about such a costl
 
 > 翻译：尽管直觉是针对这样一个高代价的难题必须要做一些重大的举措，经济的分析清楚地显示彻底减少二氧化碳排放的花费要远大于为了适应增长的气温而付出的代价。
 
-</details>
+
+
+## 15
+
+After six months of arguing and final 16 hours of hot parliamentary debates, Australia's Northern Territory became the first legal authority in the world to allow doctors to tale the lives of incurably ill patients who wish to die.
+
+**1.介词P：After six months of arguing**
+
+从句首介词“after”开始，到“arguing”结束。结束的原因是因为后面出现了连词“and”，并列了前后两个成分。
+
+该部分表达一个时间的概念。
+
+**2.and final 16 hours of hot parlianmentary debates**
+
+从连词“and”开始，到逗号处结束。
+
+连词“and”后面的部分，根据意思判断为和“six months of arguing”构成并列的关系，都表达了一种时间的概念。
+
+**3.Australia‘s Northern Territory became the first legal authority in the world**
+
+从逗号后的“Australia‘s”开始，到“world”结束。结束的原因是因为后面出现了非谓语动词N“to allow”，引导了一段内容。
+
+此处有完整的句子结构，有主有谓。
+
+**4.非谓语动词N：to allow doctors to take the lives of incurably ill patients**
+
+从非谓语动词N“to allow”开始，到“patients”结束。结束的原因是因为后面出现了从句C引导词“who”，引导了一段修饰。
+
+**5.从句C：who wish to die**
+
+从从句C引导词“who”开始，到句末结束。
+
+从句C引导词“who”引导的内容，根据修饰的就近原则可知，其修饰对象为紧靠其左边的“patients”，即希望结束生命的病人。
+
+> 翻译：经过6个月争论和最后16小时的国会激烈辩论，澳大利亚北部地区成为世界上第一个允许医生根据绝症病人个人意愿来结束其生命的立法当局。
 
 
 
-<details>
-<summary>查看例句15</summary>
+## 16
+
+Interest in historical methods has arisen less through external challenge to the validity of history as an intellectual discipline and more from internal quarrels among historians themselves.
+
+**1.Interest in historical methods has arisen less**
+
+从句首开始，到“less”结束，结束的原因是因为后面出现了介词P“through”，引导了修饰成分。
+
+该部分有着完整的意思和结构。
+
+**2.介词P：through external challenge to the validity of history**
+
+从介词P“through”开始，到“history”结束，结束的原因是因为后面出现了介词“as”，引导了一段修饰。
+
+介词P“through”引导的内容，根据意思可知，其说明了“has arisen less”的来源。
+
+**3.介词P：as an intellectual discipline**
+
+从介词P“as”开始，到“discipline”结束，结束的原因是因为后面出现了连词“and”，引导了下一段内容。
+
+介词P“as”引导的修饰，根据修饰的就近原则和句意可知，其修饰的对象为紧靠其左边的“the validity of history”，即“怎么样”的历史真实性。
+
+**4.and more**
+
+从“and”开始，到“more”结束。结束的原因是因为后面出现了介词P“from”，其引导了一段修饰内容。
+
+这里的“and”，根据意思和结构可知，连接了“through external challenage to the validity of history as an intellectual discipline”和后面的“from internal quarrels among historians themselves”，将两者构成了平行的关系。
+
+**5.介词P：from internal quarrels among historians themselves**
+
+从介词P“from”开始，到句末结束。
+
+介词P“from”引导的内容，根据意思可知，其修饰对象为“has arisen more”，即更多的来源于“什么”。
+
+> 翻译：对历史学研究方法上的兴趣出现，与其说是来自于外部的质疑，质疑历史作为知识学科的真实性，倒不如说是来自于历史学家内部的争论。
 
 
-</details>
+## 17
 
 
+**1.**
 
+**2.**
+
+**3.**
+
+**4.**
+
+**5.**
+
+> 翻译：
 
 
 
