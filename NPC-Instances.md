@@ -19,7 +19,7 @@
 - [`Instance14`](#14) Despite the intuition that something drastic needs to be done about such a costly problem, economic analysis clearly show that it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures.
 - [`Instance15`](#15) After six months of arguing and final 16 hours of hot parliamentary debates, Australia's Northern Territory became the first legal authority in the world to allow doctors to tale the lives of incurably ill patients who wish to die.
 - [`Instance16`](#16) Interest in historical methods has arisen less through external challenge to the validity of history as an intellectual discipline and more from internal quarrels among historians themselves.
-- [`Instance17`](#17)
+- [`Instance17`](#17) This trend began during the Second World War, when several governments came to the conclusion that the specific demands that a government wants to make of its scientific establishments cannot generally be foreseen in detail.
 - [`Instance18`](#18)
 - [`Instance19`](#19)
 - [`Instance20`](#20)
@@ -606,6 +606,50 @@ Interest in historical methods has arisen less through external challenge to the
 
 ## 17
 
+This trend began during the Second World War, when several governments came to the conclusion that the specific demands that a government wants to make of its scientific establishments cannot generally be foreseen in detail.
+
+**1.This trend began**
+
+从句首开始，到“began”结束，结束的原因是因为后面出现了介词P“during”，其引导了一段修饰。
+
+该句有完整的意思和结构。
+
+**2.介词P：during the Second World War**
+
+从介词P“during”开始，到逗号处结束。
+
+介词P“during”引导的内容，根据意思可知其表达了一个时间的概念，具体说明了左边“this trend began”的时间。
+
+**3.从句C：when several governments came to the conclusion**
+
+从逗号后的从句C引导词“when”开始，到“conclusion”结束，结束的原因是因为后面出现了从句C引导词“that”，引导了一段内容。
+
+从句C引导词“when”引导的内容，根据句意可知其描述的仍然是trend开始的时间。
+
+**4.从句C：that the specific demands**
+
+从从句C引导词“that”开始，到“demands”结束，结束的原因是因为后面出现了从句C引导词“that”，其引导了一段修饰。
+
+从句C引导词“that”引导的内容，根据意思可知，其为补充说明了其左边“conclusion”的内容是什么。
+
+**5.从句C：that a government wants to make of its scientific establishments**
+
+从从句C引导词“that”开始，到“establishments”结束，结束的原因是因为后面出现了谓语动词“cannot be foreseen”。谓语动词的出现标志着修饰的结束。
+
+这里从句C引导词“that”，根据其修饰的就近原则和句意可知，其修饰对象为紧靠其左边的“demands”，即“什么样的”需求。
+
+**6.从句C谓语：cannot generally be foreseen in detail**
+
+从从句谓语动词“cannot generally be foreseen”开始，到句末结束。
+
+这里是从句的谓语，说明的是“specific demands”做什么。
+
+> 翻译：这种趋势始于第二次世界大战期间，当时一些国家的政府得出结论，政府要向科研机构提出的具体要求通常是无法详尽预见的。
+
+
+
+## 18
+
 
 **1.**
 
@@ -618,9 +662,6 @@ Interest in historical methods has arisen less through external challenge to the
 **5.**
 
 > 翻译：
-
-
-
 
 
 
