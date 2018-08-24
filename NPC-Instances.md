@@ -20,8 +20,8 @@
 - [`Instance15`](#15) After six months of arguing and final 16 hours of hot parliamentary debates, Australia's Northern Territory became the first legal authority in the world to allow doctors to tale the lives of incurably ill patients who wish to die.
 - [`Instance16`](#16) Interest in historical methods has arisen less through external challenge to the validity of history as an intellectual discipline and more from internal quarrels among historians themselves.
 - [`Instance17`](#17) This trend began during the Second World War, when several governments came to the conclusion that the specific demands that a government wants to make of its scientific establishments cannot generally be foreseen in detail.
-- [`Instance18`](#18)
-- [`Instance19`](#19)
+- [`Instance18`](#18) As surgeons watch a three-dimensional image of the surgery, they move instruments that are connected to a computer, which passes their movements to robotic instruments that perform the surgery.
+- [`Instance19`](#19) On the more important matter of the Constitution, the decision was an 8-0 defeat for the Administration's effort to upset the balance of power between the federal government and the states.
 - [`Instance20`](#20)
 - [`Instance21`](#21)
 - [`Instance22`](#22)
@@ -650,6 +650,77 @@ This trend began during the Second World War, when several governments came to t
 
 ## 18
 
+As surgeons watch a three-dimensional image of the surgery, they move instruments that are connected to a computer, which passes their movements to robotic instruments that perform the surgery.
+
+**1.As surgeons watch a three-dimensional image of the surgery**
+
+从句首开始，到逗号处结束。
+
+此处有“as”引导，根据意思可知其描述的是事情发生的状态。
+
+**2.they move instruments**
+
+从逗号后的“they”开始，到“instruments”结束，结束的原因是因为后面出现了从句C引导词“that”，引导了一段修饰。该部分有完整的主谓结构。
+
+**3.从句C：that are connected to a computer**
+
+从从句C引导词“that”开始，到逗号处结束。
+
+从句C引导词“that”引导的修饰，根据修饰的就近原则可知，其修饰对象为紧靠其左边的“instruments”。表明是“怎么样的”医疗器具。
+
+**4.从句C：which passes their movements to robotic instruments**
+
+从从句C引导词“which”开始，到“instruments”结束。结束的原因是因为后面出现了从句C引导词“that”，引导了一段修饰。
+
+从句C引导词“which”引导的内容，根据修饰的就近原则可知，其修饰的对象为紧靠其左边的“computer”，表明是一个“怎么样的”电脑。
+
+**5.从句C：that perform the surgery**
+
+从从句C引导词“that”开始，到句末结束。
+
+这里“that”引导的内容，根据修饰的就近原则和意思可知，其修饰的对象为紧靠其左边的“robotic instruments”，表明是一个“怎么样的”机器人设备。
+
+> 翻译：随着外科医生观看外科手术的3D图像，他们移动着连接电脑的医疗器械，这台电脑将他们的动作传递给进行手术的机器人设备。
+
+
+## 19
+
+On the more important matter of the Constitution, the decision was an 8-0 defeat for the Administration's effort to upset the balance of power between the federal government and the states.
+
+**1.介词P：On the more important matter of the Constitution**
+
+从句首开始，到逗号处结束。
+
+这里介词“on”引导的内容，根据意思可知，其描述的是一种情形。
+
+**2.the decision was an 8-0 defeat**
+
+从逗号处开始，到“defeat”结束，结束的原因是因为后面出现了介词P“for”，引导了一段修饰。
+
+**3.介词P：for the Administration‘s effort**
+
+从介词P“for”开始，到“effort”结束，结束的原因是因为后面出现了非谓语动词“to upset”，其引导了一段修饰。
+
+介词“for”引导的内容，根据修饰的就近原则可知，其修饰的对象为紧靠其左边的“defeat”，表明了是什么失败了。
+
+**4.非谓语动词N：to upset the balance of power**
+
+从非谓语动词N“to upset”开始，到“power”结束，结束的原因是因为后面出现了介词P“between”，引导了一段修饰。
+
+非谓语动词“to upset”引导的内容，根据修饰的就近原则可知，其修饰的对象为紧靠其左边的“effort”，表明了努力的具体内容是什么。
+
+**5.介词P：between the federal government and the states**
+
+从介词P“between”开始，到句末结束。
+
+这里介词P引导的内容，根据修饰的就近原则和意思可知，其修饰的对象为紧靠其左边的“the balance of power”，表明是怎么样的权利平衡。
+
+> 翻译：在宪法这一重要问题上，结果是8：0挫败了行政当局试图打败联邦政府与各州间权利平衡的努力。
+
+
+
+## 20
+
 
 **1.**
 
@@ -662,11 +733,6 @@ This trend began during the Second World War, when several governments came to t
 **5.**
 
 > 翻译：
-
-
-
-
-
 
 
 
