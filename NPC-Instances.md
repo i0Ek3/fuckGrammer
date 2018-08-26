@@ -22,7 +22,7 @@
 - [`Instance17`](#17) This trend began during the Second World War, when several governments came to the conclusion that the specific demands that a government wants to make of its scientific establishments cannot generally be foreseen in detail.
 - [`Instance18`](#18) As surgeons watch a three-dimensional image of the surgery, they move instruments that are connected to a computer, which passes their movements to robotic instruments that perform the surgery.
 - [`Instance19`](#19) On the more important matter of the Constitution, the decision was an 8-0 defeat for the Administration's effort to upset the balance of power between the federal government and the states.
-- [`Instance20`](#20)
+- [`Instance20`](#20) The emphasis on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a unique and distinctively important social science.
 - [`Instance21`](#21)
 - [`Instance22`](#22)
 - [`Instance23`](#23)
@@ -721,6 +721,42 @@ On the more important matter of the Constitution, the decision was an 8-0 defeat
 
 ## 20
 
+The emphasis on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a unique and distinctively important social science.
+
+**1.The emphasis on data**
+
+从句首开始，到“data”结束，结束的原因是因为后面出现了非谓语动词N“gathered”，引导了一段修饰。
+
+**2.非谓语动词N：gathered first-hand**
+
+从非谓语动词N“gathered”开始，到逗号处结束。
+
+非谓语动词N“gathered”引导的内容，根据修饰的就近原则可知，其修饰对象为紧靠其左边的“data”，说明是什么样的数据。
+
+**3.非谓语动词N：combined with a cross-cultural perspective**
+
+从逗号后的非谓语动词N“combined”开始，到“perspective”结束，结束的原因是因为后面出现了非谓语动词N“brought”，引导了下一段修饰。
+
+这里“combined”引导的内容，根据意思判断可知，是对前面的“The emphasis on data”进行了补充说明。
+
+**4.非谓语动词N：brought to the analysis of cultures past and present**
+
+从非谓语动词N“brought”开始，到都好处结束。
+
+非谓语动词N“brought”引导的内容，根据修饰的就近原则可知，其修饰对象为紧靠其左边的“cross-cultural perspective”，表明是一个怎么样的跨文化视角。
+
+**5.makes this study a unique and distinctively important social science**
+
+从逗号后开始，到句末结束。
+
+这里是说明了句子前面提到的内容，发生了什么。
+
+> 翻译：强调第一手收集的数据，并与采用分析过去和现代文化的跨文化视角相结合，使得这门学科称为一门独特并且非常重要的社会科学。
+
+
+
+## 21
+
 
 **1.**
 
@@ -733,6 +769,4 @@ On the more important matter of the Constitution, the decision was an 8-0 defeat
 **5.**
 
 > 翻译：
-
-
 
