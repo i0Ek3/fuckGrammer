@@ -115,7 +115,7 @@
 </details>
 
 
-## 连词 Conjuctions
+## 连词 Conjunctions
 <details>
 <summary>View contents</summary>
 </details>

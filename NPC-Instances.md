@@ -3,9 +3,9 @@
 <details>
 <summary>查看例句</summary>
 
-- [`Instance01`](#01) In the world of make-beleive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.
+- [`Instance01`](#01) In the world of make-believe, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.
 - [`Instance02`](#02) In single-sex schools teachers can tailor lessons to boy's learning style, letting them move around the classroom and getting them to compete in teams to prevent boredom.
-- [`Instance03`](#03) The end result has been that students in America have worse math and reading skills than both their foregin peers and earlier generations spending far less on education.
+- [`Instance03`](#03) The end result has been that students in America have worse math and reading skills than both their foreign peers and earlier generations spending far less on education.
 - [`Instance04`](#04) A magazine in England found that tap water from the Thames River tasted better than several leading brands of bottled water that were 400 times more expensive.
 - [`Instance05`](#05) Sally enjoyed it heartily and found the applause of her boys more satisfying than any praise of the world, for now she told no no stories except to her flock of enthusiastic believers and admirers.
 - [`Instance06`](#06) Neither the environmental protection authorities, who are supposed to take care of industrial noise, nor the police that should play a role in curbing traffic noise do their job properly.
@@ -14,7 +14,7 @@
 - [`Instance09`](#09) His argument is that the unusual history of these people has subjected them to unique evolutionary pressures that have resulted in this paradoxical state of affairs.
 - [`Instance10`](#10) The question of whether the decrease in plant fecundity caused by the spraying of pesticides actually causes a decline in the overall population of flowering plant species still remains unanswered.
 - [`Instance11`](#11) Investors' fears over the impending clash between the new government in Athens and its lenders drove European stock markets down slightly by midday Tuesday, while Greece's stock market plunged over 2 percent.
-- [`Instance12`](#12) About 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesdat aims to crack down on the industrial-scale theft known as "pirate fishing".
+- [`Instance12`](#12) About 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesday aims to crack down on the industrial-scale theft known as "pirate fishing".
 - [`Instance13`](#13) The great interest in exceptional children shown in public education over the past three decades indicates the strong feeling in our society that all citizens, whatever their special conditions, deserve the opportunity to fully develop their capabilities.
 - [`Instance14`](#14) Despite the intuition that something drastic needs to be done about such a costly problem, economic analysis clearly show that it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures.
 - [`Instance15`](#15) After six months of arguing and final 16 hours of hot parliamentary debates, Australia's Northern Territory became the first legal authority in the world to allow doctors to tale the lives of incurably ill patients who wish to die.
@@ -38,7 +38,7 @@
 
 ## 01
 
-In the world of make-beleive, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.
+In the world of make-believe, black women still can't escape the stereotype of being eye-rolling, oversexed females raised by our never-married, alcoholic mothers.
 
 
 1.介词短语P: `In the world of make-believe`
@@ -106,7 +106,7 @@ In single-sex schools teachers can tailor lessons to boy's learning style, letti
 
 > 从该例句开始，调整书写风格，不再添加高亮显示，为了保持突兀，决定保留前面的格式内容，为什么要按常理出牌？
 
-The end result has been that students in America have worse math and reading skills than both their foregin peers and earlier generations spending far less on education.
+The end result has been that students in America have worse math and reading skills than both their foreign peers and earlier generations spending far less on education.
 
 
 **1.The end result has been**
@@ -411,7 +411,7 @@ Investors' fears over the impending clash between the new government in Athens a
 
 ## 12
 
-About 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesdat aims to crack down on the industrial-scale theft known as "priate fishing".
+About 20 percent of the world's fishing catch is taken illegally by poachers, experts estimate, but a new satellite tracking system launched on Wednesday aims to crack down on the industrial-scale theft known as "pirate fishing".
 
 **1.About 20 percent of the world‘s fishing catch**
 
@@ -505,7 +505,7 @@ Despite the intuition that something drastic needs to be done about such a costl
 
 这里“that”引导的部分，修饰了紧靠其左边的“intuition”，说明是什么样的直觉。
 
-**3.介词P：about such a costly problen**
+**3.介词P：about such a costly problem**
 
 从介词P“about”开始，到逗号结束。
 
@@ -541,7 +541,7 @@ After six months of arguing and final 16 hours of hot parliamentary debates, Aus
 
 该部分表达一个时间的概念。
 
-**2.and final 16 hours of hot parlianmentary debates**
+**2.and final 16 hours of hot parliamentary debates**
 
 从连词“and”开始，到逗号处结束。
 
@@ -593,7 +593,7 @@ Interest in historical methods has arisen less through external challenge to the
 
 从“and”开始，到“more”结束。结束的原因是因为后面出现了介词P“from”，其引导了一段修饰内容。
 
-这里的“and”，根据意思和结构可知，连接了“through external challenage to the validity of history as an intellectual discipline”和后面的“from internal quarrels among historians themselves”，将两者构成了平行的关系。
+这里的“and”，根据意思和结构可知，连接了“through external challenge to the validity of history as an intellectual discipline”和后面的“from internal quarrels among historians themselves”，将两者构成了平行的关系。
 
 **5.介词P：from internal quarrels among historians themselves**
 
