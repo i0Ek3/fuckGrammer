@@ -1,5 +1,7 @@
 # fuckGrammer
 
+- **2020.04.27 本文的内容将不再更新了，是的，该项目宣布dead！因为我看到了这么一篇[文章](http://www.yinwang.org/blog-cn/2018/11/23/grammar)，5-10 分钟，你就可以学会本项目的所有内容。也许有点夸大，但我的确做到了！本项目的例句还是可以分析看看的，检验一下。玩的开心～** 
+
 fuckGrammer，我将其翻译为去语法，主要目的是为了减轻同胞们学习英语的痛苦。嗯~ 燕雀焉知鸿鹄之志哉？确切的说，该项目是我自己重新学习英语语法的学习笔记，自己整理出来方便日后使用，不定期更新，说不定哪天也就夭折了。
 
 ![fuckGrammer](https://github.com/i0Ek3/fuckGrammer/blob/master/image/fuckGrammer.png)
